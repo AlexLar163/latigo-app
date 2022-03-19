@@ -4,9 +4,9 @@
     "slug": "proyect-latigo-v2",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/latigo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/latigo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.latigo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
